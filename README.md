@@ -82,7 +82,7 @@ endmodule
 
 **Output/TIMING Waveform**
 ![output waveform half adder](https://github.com/Bhuvanesh-Suresh/HALF_ADDER_SUBTRACTOR/assets/145742661/8c0c3252-5d08-415c-abac-e50095ceb90d)
-![output waveform half sub](https://github.com/Bhuvanesh-Suresh/HALF_ADDER_SUBTRACTOR/assets/145742661/fa570a7b-068d-4312-b420-81db7d37e57b)
+![output waveform half sub](https://github.com/Bhuvanesh-Suresh/HALF_ADDER_SUBTRACTOR/assets/145742661/d4d979c4-a26c-4afe-83f8-171c55d14c1d)
 
 **Result:**
  The code is excecuted successfully.
